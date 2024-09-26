@@ -1,0 +1,65 @@
+Good Afternoon sir
+first  of all thank you for given this opportunity
+This is Anusha
+i am form kakinada
+my father name is bheema raju and he is working as lorry machinic
+my mother name is sita mahalakshimi and she is house wife
+and have one elder brother and one elder sister my sister name is madhavi devi and she working as a jl in sri chithya 
+i pursing b-tech 4th acoe in streem of computer science and engineering i achived certificiation in wed techlogices and python and have done project in cybersecurty malaware analayis strenth is confined and hardwork and possible attitude
+ 
+ 
+Good morring sir
+first of all thank you for given this opportunity
+it my pleasure to introduce myself
+my name is illa anusha
+i am form kakinada
+i have completed my graduation in stream of computer science and engineering from aditya college of engineering with 7.59cgpa and i acheived certificiation course like wed techlogies and python ,devops and i have done my academic project like cybersecurity on base of malaware analaysis and Home automation by using iot and devops ci/cd and i belong to nuclear family we are 5 members and my great strenth is confined and hardwork and positive attitude and my short trem goal is to get a job in reputed organization like yours and my long-term goal is i want to see myself in a high position with knowledge and more skills 
+ 
+1 how do you see yourself 5 year from now
+==>in five years i see myself as an integral part of the company who has helped contribute to the growth and success of the organization
+
+2 why are you interested in this job
+===> its an honor and a privilege to work for an established company like your as i researched the job opening you have i realized that my abilities align with your requirements through this job i can showcase my technical skils to help the companys development.
+ 
+3 would you like to work overtime or odd hours
+==>
+i understand that putting extra effort impacts the companys development so i am happy if it means i'm contributing to the company i will be glad to contribute
+
+4 how do you handle stree and pressure and anxiety
+==>i usually utilize my soft skills and handle every situation calmly. i also relaxing activities like meditation and lisin music.
+
+5 tell me about a time when you experienced difficulty at work while working on a project
+
+6 why do you want to work at our company
+
+7 how long would you expect to work for us if hired
+-->As a young graduate it has been always my dream to be a part of your company. So if I am selected, it will be my pleasure and I assure that I can give you my best. And if you recognize my work and potential, I will be there with you always as long as you want me to stay in this company.
+8 what are outside interests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@@@@@@@->I have done POC on CICD Project DevOps (Git, Github, Jenkins, Maven, AWS:
+*When the developer develops and tests the code in the local repository then push code into the remote repository through sonar code.
+*The sonar code will review the code based on developer metrics if any duplicate files are there then it retrieves back to the local repository.
+*After pushing the code to the remote repository. Integrate remote repository to Jenkins.
+*Jenkins will convert raw code into structure code by creating jobs.
+*Maven will convert structure code into Archive files (war. file, jar. file).
+*Maven will deploy the code into the application cloud server. 
